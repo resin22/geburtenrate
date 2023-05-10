@@ -1,0 +1,9823 @@
+[
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3648
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1780
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1868
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 30230
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14820
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15410
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 36206
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 17511
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 18695
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20479
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9994
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10485
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9077
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4430
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4647
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2633
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1335
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1298
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 240
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 116
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 124
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1969,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3560
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1741
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1819
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29262
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14184
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15078
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 35565
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 17212
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 18353
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19609
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9461
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10148
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8569
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4060
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4509
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2423
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1210
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1213
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 224
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 111
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 113
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1970,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3474
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1674
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1800
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 27529
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13439
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14090
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 35556
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 17368
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 18188
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19222
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9290
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9932
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8006
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3881
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4125
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2272
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1106
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1166
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 196
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 90
+ },
+ {
+  "YEAR": 1971,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 106
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3349
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1628
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1721
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 25418
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12302
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13116
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 34794
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16825
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17969
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18229
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8759
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9470
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7334
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3577
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3757
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2035
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 983
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1052
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 175
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 83
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 92
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 1972,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3268
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1536
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1732
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 23618
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11489
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 12129
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 34226
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16596
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17630
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17773
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8624
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9149
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6654
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3229
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3425
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1820
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 879
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 941
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 150
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 82
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 68
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1973,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2976
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1420
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1556
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 22523
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10890
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11633
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33279
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16171
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17108
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17922
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8700
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9222
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6178
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3034
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3144
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1495
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 748
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 747
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 130
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 57
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 73
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1974,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2518
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1260
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1258
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20121
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9687
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10434
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31783
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15461
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16322
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17135
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8237
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8898
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5436
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2689
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2747
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1366
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 671
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 695
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 102
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 50
+ },
+ {
+  "YEAR": 1975,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 52
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2095
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1031
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1064
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18592
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9169
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9423
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29725
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14545
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15180
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17409
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8599
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8810
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5111
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2514
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2597
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1170
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 584
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 586
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 95
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 57
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 38
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1976,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1747
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 877
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 870
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17347
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8450
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8897
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29599
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14196
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15403
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17802
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8664
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9138
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5172
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2542
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2630
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1078
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 526
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 552
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 83
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 44
+ },
+ {
+  "YEAR": 1977,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 39
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1668
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 814
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 854
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16396
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7929
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8467
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 28819
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13995
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14824
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18138
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8836
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9302
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5266
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2549
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2717
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1008
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 481
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 527
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 78
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 42
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 36
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1978,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1699
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 824
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 875
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16402
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7992
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8410
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29054
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14193
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14861
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18476
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9072
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9404
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5398
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2606
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2792
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 889
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 419
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 470
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 63
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 27
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 36
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1979,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1745
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 859
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 886
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16671
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8166
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8505
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29333
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14341
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14992
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19197
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9350
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9847
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5660
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2719
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2941
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 972
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 467
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 505
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 79
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 39
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 40
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1980,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1690
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 835
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 855
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16894
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8191
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8703
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29349
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14183
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15166
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18908
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9119
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9789
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5980
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2887
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3093
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 874
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 444
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 430
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 50
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 22
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 28
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1981,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1652
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 793
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 859
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16842
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8193
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8649
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29965
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14604
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15361
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19489
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9579
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9910
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6005
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2899
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3106
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 908
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 488
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 420
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 52
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 31
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 21
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1982,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1386
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 675
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 711
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16280
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7965
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8315
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29746
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14366
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15380
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19290
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9263
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10027
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5974
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2929
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3045
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 934
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 463
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 471
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 44
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 21
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 23
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1983,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1292
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 632
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 660
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 15862
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7720
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8142
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 30434
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14673
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15761
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19836
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9627
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10209
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6247
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3040
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3207
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 987
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 465
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 522
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 49
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 19
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 30
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1984,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1124
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 543
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 581
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 14635
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7298
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 7337
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31004
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15096
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15908
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20423
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10108
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10315
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6460
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3143
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3317
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 987
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 506
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 481
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 50
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 24
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 26
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1985,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1005
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 476
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 529
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 14329
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6964
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 7365
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31735
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15666
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16069
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 21526
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10576
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10950
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6647
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3215
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3432
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1034
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 501
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 533
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 40
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 25
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1986,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 938
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 443
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 495
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 13408
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6543
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6865
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31802
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15376
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16426
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 22268
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11006
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11262
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6969
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3416
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3553
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1061
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 504
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 557
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 55
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 27
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 28
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1987,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1031
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 487
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 544
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 13390
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6512
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6878
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33570
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16369
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17201
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 23740
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11614
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 12126
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7447
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3600
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3847
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1100
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 501
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 599
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 62
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 34
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 28
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1988,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1010
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 496
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 514
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12634
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6192
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6442
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33365
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16121
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17244
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 25017
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12249
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 12768
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7896
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3823
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4073
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1200
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 589
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 611
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 52
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 29
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 23
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1989,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1007
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 463
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 544
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12853
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6369
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6484
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 34261
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16683
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17578
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 26133
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12765
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13368
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8393
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4105
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4288
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1248
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 619
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 629
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 43
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 20
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 23
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1990,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1148
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 575
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 573
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12658
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6153
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6505
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 34639
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16890
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17749
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 27481
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13325
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14156
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8830
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4250
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4580
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1392
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 659
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 733
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 50
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 23
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 27
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1991,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 958
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 453
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 505
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12142
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6009
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6133
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 34309
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16790
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17519
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 28663
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13970
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14693
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9303
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4522
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4781
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1476
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 714
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 762
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 55
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 30
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 25
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1992,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 891
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 434
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 457
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 10953
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 5346
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 5607
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 32108
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15583
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16525
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 28915
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14043
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14872
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9453
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4617
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4836
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1378
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 676
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 702
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 59
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 29
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 30
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1993,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 781
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 382
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 399
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9973
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4789
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 5184
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31178
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15120
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16058
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29413
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14378
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15035
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 10092
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4940
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 5152
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1492
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 755
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 737
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 48
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 21
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 27
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1994,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 739
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 375
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 364
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9803
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4711
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 5092
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29541
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14555
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14986
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 30189
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14754
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15435
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 10384
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 5007
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 5377
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1495
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 688
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 807
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 48
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 20
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 28
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1995,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 769
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 377
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 392
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9220
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4546
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4674
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 28657
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13850
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14807
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31423
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15227
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16196
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 11207
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 5471
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 5736
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1651
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 786
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 865
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 76
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 38
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 38
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1996,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 765
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 348
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 417
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8776
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4309
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4467
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 26577
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12972
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13605
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 30965
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15161
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15804
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 11652
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 5636
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6016
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1780
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 827
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 953
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 66
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 31
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 35
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1997,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 771
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 372
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 399
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8575
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4271
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4304
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 24961
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12144
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 12817
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 30305
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14704
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15601
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12346
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6042
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6304
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1913
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 945
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 968
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 71
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 38
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 33
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1998,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 830
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 406
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 424
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8743
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4205
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4538
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 23775
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11514
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 12261
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29945
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14583
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15362
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12983
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6397
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6586
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2041
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 995
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1046
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 81
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 48
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 33
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 1999,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 834
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 403
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 431
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 8529
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4109
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4420
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 22861
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11034
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11827
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 30130
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14668
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15462
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 13798
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6730
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 7068
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2205
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1066
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1139
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 97
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 46
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 51
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2000,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 764
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 378
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 386
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7745
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3753
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3992
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20117
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9730
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10387
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 27618
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13424
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14194
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 13593
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6681
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6912
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2360
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1165
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1195
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 85
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 37
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 48
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2001,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 775
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 382
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 393
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7735
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3788
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3947
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19756
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9542
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10214
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 27232
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13241
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13991
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 14261
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 6873
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 7388
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2489
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1166
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1323
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 114
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 59
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 55
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 9
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 6
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2002,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 736
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 379
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 357
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7698
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3825
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3873
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19153
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9319
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9834
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 26717
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12931
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13786
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 14732
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7132
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 7600
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2677
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1287
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1390
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 127
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 67
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 60
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2003,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 777
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 376
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 401
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7590
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3728
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3862
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19014
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9311
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9703
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 27116
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13228
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13888
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 15550
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7598
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 7952
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2926
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1453
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1473
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 97
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 40
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 57
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2004,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 741
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 339
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 402
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7383
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3638
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3745
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18836
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9119
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9717
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 26533
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12900
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13633
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16015
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7669
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8346
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3270
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1598
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1672
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 118
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 66
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 52
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2005,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 676
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 305
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 371
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7313
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3518
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3795
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18782
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9129
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9653
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 26566
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12900
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13666
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 16409
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 7946
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8463
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3467
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1730
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1737
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 150
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 75
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 75
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2006,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 677
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 325
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 352
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7034
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3427
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3607
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18966
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9332
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9634
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 26806
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12939
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13867
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17045
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8274
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8771
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3751
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1894
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1857
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 202
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 115
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 87
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2007,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 652
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 309
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 343
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 7026
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3406
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3620
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19392
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9391
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10001
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 27546
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13315
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14231
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17886
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8693
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9193
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3970
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1915
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2055
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 205
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 109
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 96
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2008,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 646
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 294
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 352
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6846
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3321
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3525
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19393
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9355
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10038
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 28445
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 13798
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14647
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18444
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8945
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9499
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4253
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2048
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2205
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 243
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 113
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 130
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 15
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2009,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 581
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 277
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 304
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6938
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3409
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3529
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19773
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9619
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10154
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29652
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14489
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15163
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18707
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9170
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9537
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4392
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2093
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2299
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 233
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 117
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 116
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 12
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 8
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2010,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 509
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 254
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 255
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6616
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3226
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3390
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19721
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9537
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10184
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 29903
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14435
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15468
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19196
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9396
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9800
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4564
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2201
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2363
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 281
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 123
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 158
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 17
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 7
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2011,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 521
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 249
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 272
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6442
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3080
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3362
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19611
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9534
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10077
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31100
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15042
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16058
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19474
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9411
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10063
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4676
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2255
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2421
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 317
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 150
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 167
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 15
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y65T69",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2012,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y65T69",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 445
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 219
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 226
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 6259
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3037
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3222
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19977
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9648
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10329
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31100
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14950
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16150
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19835
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9734
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10101
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4751
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2374
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2377
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 332
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 161
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 171
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 12
+ },
+ {
+  "YEAR": 2013,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 19
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 436
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 204
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 232
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5971
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2870
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3101
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19971
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9670
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10301
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 32732
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15894
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16838
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20829
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10125
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10704
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4940
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2463
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2477
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 364
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 184
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 180
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 39
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 24
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 15
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2014,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 391
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 189
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 202
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5800
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2819
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2981
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20320
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9731
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10589
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33021
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16110
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16911
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 21469
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10374
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11095
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5147
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2475
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2672
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 378
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 198
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 180
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 26
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 16
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2015,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y60T64",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 439
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 201
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 238
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5637
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2798
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2839
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20459
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9904
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10555
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33513
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16379
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17134
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 22105
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 10850
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11255
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5327
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2624
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2703
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 370
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 177
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 193
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 28
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 15
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 13
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2016,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 359
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 177
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 182
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5218
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2471
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2747
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 20206
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9812
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10394
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33433
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16222
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17211
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 22356
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11005
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11351
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5350
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2599
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2751
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 425
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 208
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 217
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 30
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 19
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y65T69",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2017,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y65T69",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 342
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 178
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 164
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4873
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2382
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2491
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 19662
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9586
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 10076
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33960
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16512
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17448
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 23095
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11295
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11800
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5461
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2655
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2806
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 422
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 211
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 211
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 31
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 17
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 14
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2018,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 277
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 138
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 139
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4566
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2224
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2342
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18817
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9027
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9790
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 33702
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16473
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17229
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 22803
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11248
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11555
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5532
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2705
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2827
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 437
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 220
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 217
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 37
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 14
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 23
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2019,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 228
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 110
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 118
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 4095
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1971
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2124
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18578
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 8962
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9616
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 34318
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 16513
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17805
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 22795
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11213
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 11582
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5408
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2611
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2797
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 445
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 215
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 230
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 41
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 18
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 23
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2020,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 3
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y10T14",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 190
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 93
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y15T19",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 97
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 3893
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 1933
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y20T24",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 1960
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 18418
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 9069
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y25T29",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 9349
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 36404
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 17693
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y30T34",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 18711
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 24657
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 11956
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y35T39",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 12701
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 5649
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 2747
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y40T44",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2902
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 395
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 206
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y45T49",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 189
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 35
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "F",
+  "OBS_VALUE": 18
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y50T54",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 17
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "T",
+  "OBS_VALUE": 2
+ },
+ {
+  "YEAR": 2021,
+  "CANTON": "CH",
+  "AGE_MOTHER": "Y55T59",
+  "SEX_CHILD": "M",
+  "OBS_VALUE": 2
+ }
+]
