@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="main.css">
+<html>
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WEBDEV Projekt</title>
+</head>
+
+<body>
+  <header>
+    <div class="logo"></div>
+
+
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#simulation">Simulation</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <!-- <h2>About</h2>
+ <p>Im folgenden wird die Geburtenrate in einer Simulation dargestellt. </p>
+        <h3>Lebend und Totgeburten pro Jahr</h3>
+        <p>In der Statistik wird zwischen Lebendgeburten und Totgeburten unterschieden. Als Lebendgeburten gelten alle Geburten von lebenden Kindern, die nach der vollständigen Entbindung ein Lebenszeichen aufweisen. Diese sind ausschlaggebend für das natürliche Wachstum der menschlichen Bevölkerung. Als Totgeburten werden Kinder bezeichnet, die nach der vollständigen Entbindung kein Lebenszeichen aufweisen oder Früh-/Fehlgeburten, bei denen das Geburtengewicht mindestens 500 Gramm beträgt und der Fötus mindestens 22 vollendete Wochen alt ist.
+
+        Zudem wird bei der Lebendgeburt das Alter der Mutter mitbetrachtet. Während der letzten drei Jahrzehnten nahm die Zahl der jungen Mütter sehr stark ab. Dafür stieg der Anteil der Mütter im Alter von 30-34 Jahren stark an. Durch die Altersverschiebung stieg auch der Anteil an über 35-jährtigen Müttern stetig zu. Natürlich ist auch das Alter des Vaters nicht unwichtig für die Statistik. Die meisten Väter von Lebendgeburten haben ein Alter zwischen 30 und 39 Jahren erreicht. Das Alter der Mutter bei der Erstgeburt hat zudem Einfluss auf die Geburtenfolge. Die biologische Geburtenfolge bezieht sich auf die chronische Reihenfolge von Lebendgeburten. Je später die Erstgeburt, desto später folgen die nächsten. Dies wirkt sich stark auf die Geburtenhäufigkeit und den Generationserhalt aus</p> -->
+
+      <h2>Geburtenhäufigkeit</h2>
+      <p>Die Statistik der Geburtenhäufigkeit zeigt das Verhältnis zwischen der Zahl der Lebendgeburten und der Zahl der
+        weiblichen Bevölkerung im gebärfähigen Alter. Das gebärfähige Alter entspricht von 15 bis 49 Jahren. Die
+        zusammengefasste Geburtenziffer (ZGZ) entspricht der durchschnittlichen Anzahl Kinder, die eine frau im Verlauf
+        ihrs Lebens zur Welt bringen würde, wenn die altersspezifische Geburtenhäufigkeit eines Kalenderjahres zukünftig
+        konstant bleibt. 1964 war die ZGZ bei 2,7 Kinder pro Frau. Dies bedeutet, dass sie fast doppelt so hoch war als
+        heute. Ab 1970 und somit während der Wirtschaftskriese ging die Geburtenhäufigkeit während zehn Jahren zurück.
+      </p>
+    </section>
+
+    <section id="simulation">
+      <h2>Simulation</h2>
+      <p>Im folgenden wird die Geburtenhäufigkeit dargestellt. Mit dem Auswählen der verschiedenen Faktoren kann die
+        Darstellung eingeschränkt oder ergänzt werden. </p>
+
+      <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+      <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+
+      <div id="container"></div>
+
+      <div class="middle">
+        <div class="slider-container">
+          <span class="bar"><span class="fill"></span></span>
+          <input id="slider" class="slider" type="range" min="1969" max="2021" value="1969">
+        </div>
+      </div>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+      <script src="script.js"></script>
+
+    </section>
+
+
+  </main>
+
+  <footer>
+  </footer>
+</body>
+
+</html>
