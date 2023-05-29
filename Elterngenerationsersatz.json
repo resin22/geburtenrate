@@ -1,0 +1,732 @@
+[
+    {
+        "Jahr": 1876,
+        "Durchschnitt_Frau": 4.37888,
+        "Ersatz": 3.22487
+    },
+    {
+        "Jahr": 1877,
+        "Durchschnitt_Frau": 4.31036,
+        "Ersatz": 3.2968
+    },
+    {
+        "Jahr": 1878,
+        "Durchschnitt_Frau": 4.24444,
+        "Ersatz": 3.26222
+    },
+    {
+        "Jahr": 1879,
+        "Durchschnitt_Frau": 4.16158,
+        "Ersatz": 3.12348
+    },
+    {
+        "Jahr": 1880,
+        "Durchschnitt_Frau": 4.05492,
+        "Ersatz": 3.12992
+    },
+    {
+        "Jahr": 1881,
+        "Durchschnitt_Frau": 4.08818,
+        "Ersatz": 3.20191
+    },
+    {
+        "Jahr": 1882,
+        "Durchschnitt_Frau": 3.9565,
+        "Ersatz": 3.10477
+    },
+    {
+        "Jahr": 1883,
+        "Durchschnitt_Frau": 3.9059,
+        "Ersatz": 3.00635
+    },
+    {
+        "Jahr": 1884,
+        "Durchschnitt_Frau": 3.86912,
+        "Ersatz": 2.99761
+    },
+    {
+        "Jahr": 1885,
+        "Durchschnitt_Frau": 3.79401,
+        "Ersatz": 3.06715
+    },
+    {
+        "Jahr": 1886,
+        "Durchschnitt_Frau": 3.79556,
+        "Ersatz": 3.01449
+    },
+    {
+        "Jahr": 1887,
+        "Durchschnitt_Frau": 3.79968,
+        "Ersatz": 2.94706
+    },
+    {
+        "Jahr": 1888,
+        "Durchschnitt_Frau": 3.7688,
+        "Ersatz": 2.91757
+    },
+    {
+        "Jahr": 1889,
+        "Durchschnitt_Frau": 3.73668,
+        "Ersatz": 2.99763
+    },
+    {
+        "Jahr": 1890,
+        "Durchschnitt_Frau": 3.5691,
+        "Ersatz": 2.97195
+    },
+    {
+        "Jahr": 1891,
+        "Durchschnitt_Frau": 3.74983,
+        "Ersatz": 3.00278
+    },
+    {
+        "Jahr": 1892,
+        "Durchschnitt_Frau": 3.67866,
+        "Ersatz": 2.86665
+    },
+    {
+        "Jahr": 1893,
+        "Durchschnitt_Frau": 3.70472,
+        "Ersatz": 2.91549
+    },
+    {
+        "Jahr": 1894,
+        "Durchschnitt_Frau": 3.62029,
+        "Ersatz": 2.94314
+    },
+    {
+        "Jahr": 1895,
+        "Durchschnitt_Frau": 3.60264,
+        "Ersatz": 2.87228
+    },
+    {
+        "Jahr": 1896,
+        "Durchschnitt_Frau": 3.69061,
+        "Ersatz": 2.7772
+    },
+    {
+        "Jahr": 1897,
+        "Durchschnitt_Frau": 3.69742,
+        "Ersatz": 2.79071
+    },
+    {
+        "Jahr": 1898,
+        "Durchschnitt_Frau": 3.70386,
+        "Ersatz": 2.82749
+    },
+    {
+        "Jahr": 1899,
+        "Durchschnitt_Frau": 3.74685,
+        "Ersatz": 2.75214
+    },
+    {
+        "Jahr": 1900,
+        "Durchschnitt_Frau": 3.67838,
+        "Ersatz": 2.83988
+    },
+    {
+        "Jahr": 1901,
+        "Durchschnitt_Frau": 3.72414,
+        "Ersatz": 2.77424
+    },
+    {
+        "Jahr": 1902,
+        "Durchschnitt_Frau": 3.64728,
+        "Ersatz": 2.73462
+    },
+    {
+        "Jahr": 1903,
+        "Durchschnitt_Frau": 3.4968,
+        "Ersatz": 2.74648
+    },
+    {
+        "Jahr": 1904,
+        "Durchschnitt_Frau": 3.49066,
+        "Ersatz": 2.80959
+    },
+    {
+        "Jahr": 1905,
+        "Durchschnitt_Frau": 3.44272,
+        "Ersatz": 2.74603
+    },
+    {
+        "Jahr": 1906,
+        "Durchschnitt_Frau": 3.43951,
+        "Ersatz": 2.71457
+    },
+    {
+        "Jahr": 1907,
+        "Durchschnitt_Frau": 3.36528,
+        "Ersatz": 2.6804
+    },
+    {
+        "Jahr": 1908,
+        "Durchschnitt_Frau": 3.39239,
+        "Ersatz": 2.61557
+    },
+    {
+        "Jahr": 1909,
+        "Durchschnitt_Frau": 3.28356,
+        "Ersatz": 2.65639
+    },
+    {
+        "Jahr": 1910,
+        "Durchschnitt_Frau": 3.22826,
+        "Ersatz": 2.60693
+    },
+    {
+        "Jahr": 1911,
+        "Durchschnitt_Frau": 3.12485,
+        "Ersatz": 2.66088
+    },
+    {
+        "Jahr": 1912,
+        "Durchschnitt_Frau": 3.13434,
+        "Ersatz": 2.54735
+    },
+    {
+        "Jahr": 1913,
+        "Durchschnitt_Frau": 3.03088,
+        "Ersatz": 2.54371
+    },
+    {
+        "Jahr": 1914,
+        "Durchschnitt_Frau": 2.92882,
+        "Ersatz": 2.51728
+    },
+    {
+        "Jahr": 1915,
+        "Durchschnitt_Frau": 2.51626,
+        "Ersatz": 2.4965
+    },
+    {
+        "Jahr": 1916,
+        "Durchschnitt_Frau": 2.43626,
+        "Ersatz": 2.46586
+    },
+    {
+        "Jahr": 1917,
+        "Durchschnitt_Frau": 2.36568,
+        "Ersatz": 2.48588
+    },
+    {
+        "Jahr": 1918,
+        "Durchschnitt_Frau": 2.37518,
+        "Ersatz": 2.88297
+    },
+    {
+        "Jahr": 1919,
+        "Durchschnitt_Frau": 2.34677,
+        "Ersatz": 2.54022
+    },
+    {
+        "Jahr": 1920,
+        "Durchschnitt_Frau": 2.61644,
+        "Ersatz": 2.5585
+    },
+    {
+        "Jahr": 1921,
+        "Durchschnitt_Frau": 2.5759,
+        "Ersatz": 2.43356
+    },
+    {
+        "Jahr": 1922,
+        "Durchschnitt_Frau": 2.4042,
+        "Ersatz": 2.40762
+    },
+    {
+        "Jahr": 1923,
+        "Durchschnitt_Frau": 2.35273,
+        "Ersatz": 2.36481
+    },
+    {
+        "Jahr": 1924,
+        "Durchschnitt_Frau": 2.26175,
+        "Ersatz": 2.36609
+    },
+    {
+        "Jahr": 1925,
+        "Durchschnitt_Frau": 2.20704,
+        "Ersatz": 2.37124
+    },
+    {
+        "Jahr": 1926,
+        "Durchschnitt_Frau": 2.16855,
+        "Ersatz": 2.3575
+    },
+    {
+        "Jahr": 1927,
+        "Durchschnitt_Frau": 2.06806,
+        "Ersatz": 2.361
+    },
+    {
+        "Jahr": 1928,
+        "Durchschnitt_Frau": 2.04839,
+        "Ersatz": 2.35624
+    },
+    {
+        "Jahr": 1929,
+        "Durchschnitt_Frau": 2.01086,
+        "Ersatz": 2.34486
+    },
+    {
+        "Jahr": 1930,
+        "Durchschnitt_Frau": 2.01622,
+        "Ersatz": 2.32238
+    },
+    {
+        "Jahr": 1931,
+        "Durchschnitt_Frau": 1.94995,
+        "Ersatz": 2.32264
+    },
+    {
+        "Jahr": 1932,
+        "Durchschnitt_Frau": 1.94326,
+        "Ersatz": 2.32225
+    },
+    {
+        "Jahr": 1933,
+        "Durchschnitt_Frau": 1.8941,
+        "Ersatz": 2.29753
+    },
+    {
+        "Jahr": 1934,
+        "Durchschnitt_Frau": 1.87522,
+        "Ersatz": 2.28162
+    },
+    {
+        "Jahr": 1935,
+        "Durchschnitt_Frau": 1.8435,
+        "Ersatz": 2.29956
+    },
+    {
+        "Jahr": 1936,
+        "Durchschnitt_Frau": 1.80365,
+        "Ersatz": 2.27806
+    },
+    {
+        "Jahr": 1937,
+        "Durchschnitt_Frau": 1.73694,
+        "Ersatz": 2.28289
+    },
+    {
+        "Jahr": 1938,
+        "Durchschnitt_Frau": 1.78045,
+        "Ersatz": 2.26487
+    },
+    {
+        "Jahr": 1939,
+        "Durchschnitt_Frau": 1.79321,
+        "Ersatz": 2.25051
+    },
+    {
+        "Jahr": 1940,
+        "Durchschnitt_Frau": 1.81645,
+        "Ersatz": 2.26223
+    },
+    {
+        "Jahr": 1941,
+        "Durchschnitt_Frau": 2.0509,
+        "Ersatz": 2.24346
+    },
+    {
+        "Jahr": 1942,
+        "Durchschnitt_Frau": 2.26552,
+        "Ersatz": 2.23443
+    },
+    {
+        "Jahr": 1943,
+        "Durchschnitt_Frau": 2.40399,
+        "Ersatz": 2.22956
+    },
+    {
+        "Jahr": 1944,
+        "Durchschnitt_Frau": 2.49639,
+        "Ersatz": 2.23769
+    },
+    {
+        "Jahr": 1945,
+        "Durchschnitt_Frau": 2.59751,
+        "Ersatz": 2.23498
+    },
+    {
+        "Jahr": 1946,
+        "Durchschnitt_Frau": 2.61805,
+        "Ersatz": 2.22698
+    },
+    {
+        "Jahr": 1947,
+        "Durchschnitt_Frau": 2.55948,
+        "Ersatz": 2.21354
+    },
+    {
+        "Jahr": 1948,
+        "Durchschnitt_Frau": 2.53929,
+        "Ersatz": 2.18789
+    },
+    {
+        "Jahr": 1949,
+        "Durchschnitt_Frau": 2.44044,
+        "Ersatz": 2.17831
+    },
+    {
+        "Jahr": 1950,
+        "Durchschnitt_Frau": 2.40104,
+        "Ersatz": 2.16156
+    },
+    {
+        "Jahr": 1951,
+        "Durchschnitt_Frau": 2.30138,
+        "Ersatz": 2.15904
+    },
+    {
+        "Jahr": 1952,
+        "Durchschnitt_Frau": 2.32418,
+        "Ersatz": 2.14951
+    },
+    {
+        "Jahr": 1953,
+        "Durchschnitt_Frau": 2.28664,
+        "Ersatz": 2.14981
+    },
+    {
+        "Jahr": 1954,
+        "Durchschnitt_Frau": 2.28274,
+        "Ersatz": 2.14356
+    },
+    {
+        "Jahr": 1955,
+        "Durchschnitt_Frau": 2.30224,
+        "Ersatz": 2.1416
+    },
+    {
+        "Jahr": 1956,
+        "Durchschnitt_Frau": 2.34871,
+        "Ersatz": 2.13182
+    },
+    {
+        "Jahr": 1957,
+        "Durchschnitt_Frau": 2.40548,
+        "Ersatz": 2.12958
+    },
+    {
+        "Jahr": 1958,
+        "Durchschnitt_Frau": 2.40015,
+        "Ersatz": 2.12273
+    },
+    {
+        "Jahr": 1959,
+        "Durchschnitt_Frau": 2.42328,
+        "Ersatz": 2.12371
+    },
+    {
+        "Jahr": 1960,
+        "Durchschnitt_Frau": 2.44353,
+        "Ersatz": 2.11988
+    },
+    {
+        "Jahr": 1961,
+        "Durchschnitt_Frau": 2.5307,
+        "Ersatz": 2.11898
+    },
+    {
+        "Jahr": 1962,
+        "Durchschnitt_Frau": 2.59559,
+        "Ersatz": 2.12164
+    },
+    {
+        "Jahr": 1963,
+        "Durchschnitt_Frau": 2.66771,
+        "Ersatz": 2.1158
+    },
+    {
+        "Jahr": 1964,
+        "Durchschnitt_Frau": 2.67613,
+        "Ersatz": 2.11132
+    },
+    {
+        "Jahr": 1965,
+        "Durchschnitt_Frau": 2.60593,
+        "Ersatz": 2.10867
+    },
+    {
+        "Jahr": 1966,
+        "Durchschnitt_Frau": 2.51741,
+        "Ersatz": 2.10879
+    },
+    {
+        "Jahr": 1967,
+        "Durchschnitt_Frau": 2.40938,
+        "Ersatz": 2.10682
+    },
+    {
+        "Jahr": 1968,
+        "Durchschnitt_Frau": 2.30143,
+        "Ersatz": 2.10768
+    },
+    {
+        "Jahr": 1969,
+        "Durchschnitt_Frau": 2.193,
+        "Ersatz": 2.1056
+    },
+    {
+        "Jahr": 1970,
+        "Durchschnitt_Frau": 2.10353,
+        "Ersatz": 2.10152
+    },
+    {
+        "Jahr": 1971,
+        "Durchschnitt_Frau": 2.03862,
+        "Ersatz": 2.1028
+    },
+    {
+        "Jahr": 1972,
+        "Durchschnitt_Frau": 1.91362,
+        "Ersatz": 2.09892
+    },
+    {
+        "Jahr": 1973,
+        "Durchschnitt_Frau": 1.8106,
+        "Ersatz": 2.09598
+    },
+    {
+        "Jahr": 1974,
+        "Durchschnitt_Frau": 1.73341,
+        "Ersatz": 2.09411
+    },
+    {
+        "Jahr": 1975,
+        "Durchschnitt_Frau": 1.61382,
+        "Ersatz": 2.09136
+    },
+    {
+        "Jahr": 1976,
+        "Durchschnitt_Frau": 1.54689,
+        "Ersatz": 2.08979
+    },
+    {
+        "Jahr": 1977,
+        "Durchschnitt_Frau": 1.53295,
+        "Ersatz": 2.08812
+    },
+    {
+        "Jahr": 1978,
+        "Durchschnitt_Frau": 1.50796,
+        "Ersatz": 2.08505
+    },
+    {
+        "Jahr": 1979,
+        "Durchschnitt_Frau": 1.52231,
+        "Ersatz": 2.08729
+    },
+    {
+        "Jahr": 1980,
+        "Durchschnitt_Frau": 1.55432,
+        "Ersatz": 2.08665
+    },
+    {
+        "Jahr": 1981,
+        "Durchschnitt_Frau": 1.5459704318,
+        "Ersatz": 2.0847
+    },
+    {
+        "Jahr": 1982,
+        "Durchschnitt_Frau": 1.556930132,
+        "Ersatz": 2.08416
+    },
+    {
+        "Jahr": 1983,
+        "Durchschnitt_Frau": 1.5188422992,
+        "Ersatz": 2.08353
+    },
+    {
+        "Jahr": 1984,
+        "Durchschnitt_Frau": 1.5293318603,
+        "Ersatz": 2.08189
+    },
+    {
+        "Jahr": 1985,
+        "Durchschnitt_Frau": 1.5156844493,
+        "Ersatz": 2.08174
+    },
+    {
+        "Jahr": 1986,
+        "Durchschnitt_Frau": 1.53180084,
+        "Ersatz": 2.08297
+    },
+    {
+        "Jahr": 1987,
+        "Durchschnitt_Frau": 1.5155037312,
+        "Ersatz": 2.08028
+    },
+    {
+        "Jahr": 1988,
+        "Durchschnitt_Frau": 1.5687593085,
+        "Ersatz": 2.08127
+    },
+    {
+        "Jahr": 1989,
+        "Durchschnitt_Frau": 1.5638940979,
+        "Ersatz": 2.08237
+    },
+    {
+        "Jahr": 1990,
+        "Durchschnitt_Frau": 1.5926160405,
+        "Ersatz": 2.08088
+    },
+    {
+        "Jahr": 1991,
+        "Durchschnitt_Frau": 1.5819265425,
+        "Ersatz": 2.08076
+    },
+    {
+        "Jahr": 1992,
+        "Durchschnitt_Frau": 1.5757138499,
+        "Ersatz": 2.07952
+    },
+    {
+        "Jahr": 1993,
+        "Durchschnitt_Frau": 1.5077493707,
+        "Ersatz": 2.08028
+    },
+    {
+        "Jahr": 1994,
+        "Durchschnitt_Frau": 1.4883812397,
+        "Ersatz": 2.07756
+    },
+    {
+        "Jahr": 1995,
+        "Durchschnitt_Frau": 1.4767067451,
+        "Ersatz": 2.07649
+    },
+    {
+        "Jahr": 1996,
+        "Durchschnitt_Frau": 1.5017630665,
+        "Ersatz": 2.07376
+    },
+    {
+        "Jahr": 1997,
+        "Durchschnitt_Frau": 1.4772755075,
+        "Ersatz": 2.0755695577058195
+    },
+    {
+        "Jahr": 1998,
+        "Durchschnitt_Frau": 1.469822959,
+        "Ersatz": 2.0703518372005756
+    },
+    {
+        "Jahr": 1999,
+        "Durchschnitt_Frau": 1.4816860088,
+        "Ersatz": 2.0769138872723105
+    },
+    {
+        "Jahr": 2000,
+        "Durchschnitt_Frau": 1.4963446099,
+        "Ersatz": 2.0833840242846224
+    },
+    {
+        "Jahr": 2001,
+        "Durchschnitt_Frau": 1.3827048475,
+        "Ersatz": 2.076442327946698
+    },
+    {
+        "Jahr": 2002,
+        "Durchschnitt_Frau": 1.3898903711,
+        "Ersatz": 2.0854699634243206
+    },
+    {
+        "Jahr": 2003,
+        "Durchschnitt_Frau": 1.3854989501,
+        "Ersatz": 2.07507102490882
+    },
+    {
+        "Jahr": 2004,
+        "Durchschnitt_Frau": 1.4158520145,
+        "Ersatz": 2.0641161253897855
+    },
+    {
+        "Jahr": 2005,
+        "Durchschnitt_Frau": 1.4200943551,
+        "Ersatz": 2.082128013965017
+    },
+    {
+        "Jahr": 2006,
+        "Durchschnitt_Frau": 1.4372434332,
+        "Ersatz": 2.0795020001195823
+    },
+    {
+        "Jahr": 2007,
+        "Durchschnitt_Frau": 1.456549726,
+        "Ersatz": 2.0702250316375603
+    },
+    {
+        "Jahr": 2008,
+        "Durchschnitt_Frau": 1.4839586014,
+        "Ersatz": 2.082123922924539
+    },
+    {
+        "Jahr": 2009,
+        "Durchschnitt_Frau": 1.4969366743,
+        "Ersatz": 2.0841683738148644
+    },
+    {
+        "Jahr": 2010,
+        "Durchschnitt_Frau": 1.5230893685,
+        "Ersatz": 2.0659362505063448
+    },
+    {
+        "Jahr": 2011,
+        "Durchschnitt_Frau": 1.5177869642,
+        "Ersatz": 2.078664324319444
+    },
+    {
+        "Jahr": 2012,
+        "Durchschnitt_Frau": 1.5254918517,
+        "Ersatz": 2.0829512563682835
+    },
+    {
+        "Jahr": 2013,
+        "Durchschnitt_Frau": 1.5159711146,
+        "Ersatz": 2.0760571464029516
+    },
+    {
+        "Jahr": 2014,
+        "Durchschnitt_Frau": 1.5384842294,
+        "Ersatz": 2.0731642940041843
+    },
+    {
+        "Jahr": 2015,
+        "Durchschnitt_Frau": 1.5397208623,
+        "Ersatz": 2.079889606905033
+    },
+    {
+        "Jahr": 2016,
+        "Durchschnitt_Frau": 1.5451424215,
+        "Ersatz": 2.0620396907637613
+    },
+    {
+        "Jahr": 2017,
+        "Durchschnitt_Frau": 1.5212702386,
+        "Ersatz": 2.0690509871381693
+    },
+    {
+        "Jahr": 2018,
+        "Durchschnitt_Frau": 1.5178334789587336,
+        "Ersatz": 2.07
+    },
+    {
+        "Jahr": 2019,
+        "Durchschnitt_Frau": 1.479057670352272,
+        "Ersatz": 2.06
+    },
+    {
+        "Jahr": 2020,
+        "Durchschnitt_Frau": 1.4643277794018226,
+        "Ersatz": 2.08
+    },
+    {
+        "Jahr": 2021,
+        "Durchschnitt_Frau": 1.5170023803165538,
+        "Ersatz": 2.06
+    }
+]
