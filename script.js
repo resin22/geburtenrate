@@ -51,30 +51,59 @@ function getDataForYear(data, year) {
     }
     return Object.values(result)
 }
-let countsForYearFemal = {}
-let countsForYearMal = {}
+let countsForFemale = []
+let countsForMale = []
+let countsYear = []
 
 function countTotalValuesForYear(data) {
+    let countsForYearFemale = {}
+    let countsForYearMale = {}
     for (let row of data) {
-        if (row.SEX_CHILD == "F") {
-            countsForYearFemal[row.YEAR] = row.OBS_VALUE
+        if (row.SEX_CHILD == "F" && row.YEAR == "1969") {
+            countsForYearFemale[row.YEAR] = row.OBS_VALUE
+            console.log(countsForYearFemale)
+            Object.values(countsForYearFemale).forEach(item => {
+                if (countsForFemale.includes(item)) {
+                    //do nothing
+                } else {
+                    countsForFemale.push(item)
+                }
+            });
         }
         if (row.SEX_CHILD == "M") {
-            countsForYearMal[row.YEAR] = row.OBS_VALUE
+            countsForYearMale[row.YEAR] = row.OBS_VALUE
+            Object.values(countsForYearMale).forEach(item => {
+                if (countsForMale.includes(item)) {
+                    //do nothing
+                } else {
+                    countsForMale.push(item)
+                }
+            });
         }
-    }
-    return [countsForYearFemal, countsForYearMal]
-}
 
+        Object.keys(countsForYearFemale).forEach(item => {
+            if (countsYear.includes(item)) {
+                //do nothing
+            } else {
+                countsYear.push(item)
+            }
+        });
+    }
+    return [countsForFemale, countsForMale, countsYear]
+
+}
+let todgeburt = []
 function getDataForYearBalken(dataB) {
     resultBalken = {}
-
     for (let row of dataB) {
         if (row.Alter_Mutter == "Total") {
             resultBalken[row.Jahr] = row.Anzahl
         }
     }
-    return resultBalken
+    Object.values(resultBalken).forEach(item => {
+        todgeburt.push(item)
+    });
+    return todgeburt
 }
 
 var $slider = $("#slider");
@@ -96,20 +125,46 @@ function setBar() {
     }
     return yearSlider
 }
-resultFrau = {}
-resultErsatz = {}
+
+let yearLine = []
+let dataFrau = []
+let dataErsatz = []
 
 function getDataForYearLine(dataL) {
+    resultFrau = {}
+    resultErsatz = {}
     for (let row of dataL) {
         if (row.Durchschnitt_Frau != "") {
             resultFrau[row.Jahr] = row.Durchschnitt_Frau
+            Object.values(resultFrau).forEach(item => {
+                if (dataFrau.includes(item)) {
+                    //do nothing
+                } else {
+                    dataFrau.push(item)
+                }
+            });
         }
         if (row.Ersatz != "") {
             resultErsatz[row.Jahr] = row.Ersatz
+            Object.values(resultErsatz).forEach(item => {
+                if (dataErsatz.includes(item)) {
+                    //do nothing
+                } else {
+                    dataErsatz.push(item)
+                }
+            });
         }
     }
-    return [resultFrau, resultErsatz]
+    Object.keys(resultFrau).forEach(item => {
+        if (yearLine.includes(item)) {
+            //do nothing
+        } else {
+            yearLine.push(item)
+        }
+    });
+    return [dataFrau, dataErsatz, yearLine]
 }
+
 
 let dataKarte;
 let dataBalken;
@@ -129,7 +184,6 @@ let chartLinie;
     dataLinie = await fetch(
         'Elterngenerationsersatz.json'
     ).then(response => response.json());
-    console.log(dataLinie)
 
     dataBalken = await fetch(
         'totgeburten.json'
@@ -139,14 +193,10 @@ let chartLinie;
     setBar();
 
     test = countTotalValuesForYear(dataKarte)
-    console.log(test)
-
-
     data = getDataForYear(dataKarte, yearSlider)
     dataL = getDataForYearLine(dataLinie)
-    console.log(dataL)
     dataB = getDataForYearBalken(dataBalken)
-    console.log(dataB)
+
 
     chart = Highcharts.mapChart('container', {
         chart: {
@@ -203,7 +253,7 @@ let chartLinie;
             text: 'Source: <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/geburten.html">Bundesamt für Statistik</a>'
         },
         xAxis: {
-            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+            categories: yearLine,
         },
         yAxis: {
             title: {
@@ -220,10 +270,10 @@ let chartLinie;
         },
         series: [{
             name: 'Durchschnittliche Kinderanzahl je Frau',
-            data: dataL
+            data: dataFrau
         }, {
             name: 'Ersatz der Elterngeneration',
-            data: resultErsatz
+            data: dataErsatz
         }]
     });
 
@@ -239,7 +289,7 @@ let chartLinie;
         },
 
         xAxis: {
-            categories: ['Geburten']
+            categories: countsYear.slice(1)
         },
 
         yAxis: {
@@ -260,7 +310,7 @@ let chartLinie;
             stack: 'lebend'
         }, {
             name: 'Todgeburt',
-            data: [113],
+            data: todgeburt,
             stack: 'tot'
         }],
 
