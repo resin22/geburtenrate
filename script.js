@@ -77,7 +77,7 @@ function countYear(data) {
 
 let countsForFemale = []
 let countsForMale = []
-//Funktion nimmt alle Weiblichen-/Mänlichengeburten pro jahr, zählt alle Werte der Kantone zusammen und setzt sie in ein array
+//Funktion nimmt alle Weiblichen-/Männlichengeburten pro Jahr, zählt alle Werte der Kantone zusammen und setzt sie in ein array
 //Achtung! funktion ist sehr lange, da keine schönere Lösung gefunden und sie so funktioniert :)
 //Funktion wird für das Balkendiagramm von Lebend- und Todgeburten benötigt
 function countTotalValuesForYear(data) {
@@ -1571,7 +1571,7 @@ function countTotalValuesForYear(data) {
 }
 
 let todgeburt = []
-//Funktion extrahiert alle Werte pro Jahr aus der datei und speichert sie in ein array
+//Funktion extrahiert alle Werte pro Jahr aus der Datei und speichert sie in ein array
 //Funktion wird für das Balkendiagramm von Lebend- und Todgeburten benötigt
 function getDataForYearBalken(dataB) {
     resultBalken = {}
@@ -1594,7 +1594,7 @@ function setBar() {
     $fill.css("width", $slider.val())
     yearSlider = $slider.val()
     data = getDataForYear(dataKarte, yearSlider)
-    // verändert die Chartdarstellung bei jeder väränderung des Sliders
+    // verändert die Chartdarstellung bei jeder Veränderung des Sliders
     if (chart) {
         chart.series[0].update({
             data: data
@@ -1609,7 +1609,7 @@ function setBar() {
 let yearLine = []
 let dataFrau = []
 let dataErsatz = []
-//Funktion extrahiert die Werte für die Durchschnittliche Kinderanzahl je Frau und die nötige Anzahl für den Elterngenerationsersatz.
+//Funktion extrahiert die Werte für die durchschnittliche Kinderanzahl je Frau und die nötige Anzahl für den Elterngenerationsersatz
 //Zudem werden die Jahreszahlen ausgelesen und in ein array gespeichert
 //Funktion wird für die Generationsersatzgrafik benötigt
 function getDataForYearLine(dataL) {
@@ -1653,7 +1653,7 @@ let dataLinie;
 let chart;
 let chartBalken;
 let chartLinie;
-/*führt die ganze Darstellung auf der Webseite aus.
+/*führt die ganze Darstellung auf der Webseite aus
 Hier werden auch die benötigten Datensätze hineingeladen sowie die Grafiken definiert.*/
 (async () => {
     const topology = await fetch(
@@ -1720,7 +1720,7 @@ Hier werden auch die benötigten Datensätze hineingeladen sowie die Grafiken de
                 female = this.point.female
                 male = this.point.male
                 total = this.point.value
-                return `Gesammtanzahl: ${total}, Mädchen: ${female}, Knaben: ${male}`
+                return `Gesamtanzahl: ${total}, Mädchen: ${female}, Knaben: ${male}`
             }
         }
     });
@@ -1741,7 +1741,7 @@ Hier werden auch die benötigten Datensätze hineingeladen sowie die Grafiken de
         },
         yAxis: {
             title: {
-                text: 'Durchschnittliche kinderanzahl je Frau'
+                text: 'Durchschnittliche Kinderanzahl je Frau'
             }
         },
         plotOptions: {
