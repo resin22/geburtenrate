@@ -1609,7 +1609,7 @@ function setBar() {
 let yearLine = []
 let dataFrau = []
 let dataErsatz = []
-//Funktion extrahiert die Werte für die durchschnittliche Kinderanzahl je Frau und die nötige Anzahl für den Elterngenerationsersatz
+//Funktion extrahiert die Werte für die durchschnittliche Kinderanzahl je Frau und die nötige Anzahl für den Elterngenerationsersatz.
 //Zudem werden die Jahreszahlen ausgelesen und in ein array gespeichert
 //Funktion wird für die Generationsersatzgrafik benötigt
 function getDataForYearLine(dataL) {
@@ -1653,7 +1653,7 @@ let dataLinie;
 let chart;
 let chartBalken;
 let chartLinie;
-/*führt die ganze Darstellung auf der Webseite aus
+/*führt die ganze Darstellung auf der Webseite aus.
 Hier werden auch die benötigten Datensätze hineingeladen sowie die Grafiken definiert.*/
 (async () => {
     const topology = await fetch(
@@ -1780,6 +1780,15 @@ Hier werden auch die benötigten Datensätze hineingeladen sowie die Grafiken de
                 text: 'Anzahl'
             }
         },
+        tooltip: {
+            format: '<b>{key}</b><br/>{series.name}: {y}<br/>' +
+                'Total: {point.stackTotal}'
+        },
+        plotOptions: {
+            column: {
+                stacking: 'normal'
+            }
+        },
         series: [{
             name: 'Lebendgeburten Mädchen',
             data: countsForFemale.slice(1),
@@ -1792,16 +1801,6 @@ Hier werden auch die benötigten Datensätze hineingeladen sowie die Grafiken de
             name: 'Todgeburten',
             data: todgeburt,
             stack: 'tot'
-        }],
-        tooltip: {
-            format: '<b>{key}</b><br/>{series.name}: {y}<br/>' +
-                'Total: {point.stackTotal}'
-
-        },
-        plotOptions: {
-            column: {
-                stacking: 'normal'
-            }
-        }
+        }]
     });
 })();

@@ -4,189 +4,156 @@
 <html>
 
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WEBDEV Projekt</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WEBDEV Projekt</title>
 </head>
 
 <body>
-    <header>
-        <div class="logo"></div>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#geburtenziffer">Geburtenziffer</a></li>
-                <li><a href="#geburtenhäufigkeit">Geburtenhäufigkeit</a></li>
-                <li><a href="#generationsersatz">Generationsersatz</a></li>
-                <li><a href="#simulation">Simulation</a></li>
-            </ul>
-        </nav>
-    </header>
+  <header>
+    <div class="logo"></div>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#geburtenziffer">Geburtenziffer</a></li>
+        <li><a href="#geburtenhäufigkeit">Geburtenhäufigkeit</a></li>
+        <li><a href="#generationsersatz">Generationsersatz</a></li>
+        <li><a href="#simulation">Simulation</a></li>
+      </ul>
+    </nav>
+  </header>
 
-    <main>
-        <section id="about">
-            <h2>About</h2>
-            <p>Diese Webseite befasst sich mit den Statistiken zu den Geburten in der Schweiz ab dem Jahr 1969 bis ins
-                Jahr
-                2021. Die dazu verwendeten Datensätze wurden vom <a
-                    href="https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/geburten.html">Bundesamt
-                    für Statistik</a> geliehen. Für die abgebildeten Charts wurden drei unterschiedliche Demo-Charts von
-                <a href="https://www.highcharts.com/demo/column-stacked-and-grouped/brand-light">highcharts.com</a>
-                verwendet.
-                Die Texte und Anzeigen wurden mit Hilfe der vorher angegebenen Quellen selbstständig durch die
-                Projektgruppe
-                erstellt.
-                </br>
-                </br>
-                In den nächsten drei Abschnitten werden wir uns mit dem Inhalt für die nachfolgenden
-                Statistiken befassen. Dabei wird erklärt, welche Komponenten in der jeweiligen Statistik zu finden sind
-                und wie
-                diese laut dem Bundesamt für Statistik definiert werden. Es handelt sich dabei um die Statistiken zu
-                Lebend- und
-                Totgeburten, der Geburtenhäufigkeit in den einzelnen Kantonen pro Jahr und die Anzahl der Kinder pro
-                Frau im
-                Vergleich zur mindest Anzahl für den Elterngenerationenersatz.</p>
-        </section>
+  <main>
+    <section id="about">
+      <h2>About</h2>
+      <p>Diese Webseite befasst sich mit den Statistiken zu den Geburten in der Schweiz ab dem Jahr 1969 bis ins Jahr
+        2021. Die dazu verwendeten Datensätze wurden vom <a
+          href="https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/geburten.html">Bundesamt
+          für Statistik</a> gelihen. Für die abgebildeten Charts wurden drei unterschiedliche Demo-Charts von <a
+          href="https://www.highcharts.com/demo/column-stacked-and-grouped/brand-light">highcharts.com</a> verwendet.
+        Die Texte und Anzeigen wurden mit Hilfe der vorangegangenen Quellen selbstständig durch die Projektgruppe
+        erstellt.
+        </br>
+        </br>
+        In den nächsten drei Abschnitte werden wir uns mit dem Inhalt für die nachfolgenden
+        Statistiken befassen. Dabei wird erklärt, welche Komponenten in der jeweiligen Statistik zu finden sind und wie
+        diese laut dem Bundesamt für Statistik definiert werden. Dabei handelt es sich um die Statistiken zu Lebend und
+        Totgeburten, der Geburtenhäufigkeit in den einzelnen Kantonen pro Jahr und die Anzahl der Kinder pro Frau im
+        Vergleich zur mindest Anzahl für den Elterngenerationsenersatz.</p>
+    </section>
+    <br>
+    <section id="geburtenziffer">
+      <h2>Lebend- und Totgeburten pro Jahr</h2>
+      <p>In der Statistik wird zwischen Lebendgeburten und Totgeburten unterschieden. Als Lebendgeburten gelten alle
+        Geburten von lebenden Kindern, die nach der vollständigen Entbindung ein Lebenszeichen aufweisen. Diese sind
+        ausschlaggebend für das natürliche Wachstum der menschlichen Bevölkerung. Als Totgeburten werden Kinder
+        bezeichnet, die nach der vollständigen Entbindung kein Lebenszeichen aufweisen oder Früh-/Fehlgeburten, bei
+        denen das Geburtengewicht mindestens 500 Gramm beträgt und der Fötus mindestens 22 vollendete Wochen alt ist.
         <br>
-        <section id="geburtenziffer">
-            <h2>Lebend- und Totgeburten pro Jahr</h2>
-            <p>In der Statistik wird zwischen Lebendgeburten und Totgeburten unterschieden. Als Lebendgeburten gelten
-                alle
-                Geburten von lebenden Kindern, die nach der vollständigen Entbindung ein Lebenszeichen aufweisen. Diese
-                sind
-                ausschlaggebend für das natürliche Wachstum der menschlichen Bevölkerung. Als Totgeburten werden Kinder
-                bezeichnet, die nach der vollständigen Entbindung kein Lebenszeichen aufweisen oder Früh-/Fehlgeburten,
-                bei
-                denen das Geburtengewicht mindestens 500 Gramm beträgt und der Fötus mindestens 22 vollendete Wochen alt
-                ist.
-                <br>
-                <br>
-                Zudem wird bei der Lebendgeburt das Alter der Mutter mitbetrachtet. Während der letzten drei Jahrzehnten
-                nahm
-                die Zahl der jungen Mütter sehr stark ab. Dafür stieg der Anteil der Mütter im Alter von 30-34 Jahren
-                stark an.
-                Durch die Altersverschiebung stieg auch der Anteil an über 35-jährigen Müttern stetig zu. Natürlich ist
-                auch
-                das Alter des Vaters nicht unwichtig für die Statistik. Die meisten Väter von Lebendgeburten haben ein
-                Alter
-                zwischen 30 und 39 Jahren erreicht. Das Alter der Mutter bei der Erstgeburt hat zudem Einfluss auf die
-                Geburtenfolge. Die biologische Geburtenfolge bezieht sich auf die chronische Reihenfolge von
-                Lebendgeburten. Je
-                später die Erstgeburt, desto später folgen die nächsten. Dies wirkt sich stark auf die
-                Geburtenhäufigkeit und
-                den Generationserhalt aus.
-            </p>
-        </section>
         <br>
-        <section id="geburtenhäufigkeit">
-            <h2>Geburtenhäufigkeit</h2>
-            <p>Die Statistik der Geburtenhäufigkeit zeigt das Verhältnis zwischen der Zahl der Lebendgeburten und der
-                Zahl der
-                weiblichen Bevölkerung im gebärfähigen Alter. Das gebärfähige Alter entspricht von 15 bis 49 Jahren. Die
-                zusammengefasste Geburtenziffer (ZGZ) zeigt die durchschnittliche Anzahl Kinder, die eine Frau im
-                Verlauf
-                ihrs Lebens zur Welt bringen würde, wenn die altersspezifische Geburtenhäufigkeit eines Kalenderjahres
-                zukünftig
-                konstant bleibt. 1964 war die ZGZ bei 2,7 Kinder pro Frau. Dies bedeutet, dass sie fast doppelt so hoch
-                war als
-                heute. Ab 1970 und daher während der Wirtschaftskriese ging die Geburtenhäufigkeit in den nächsten zehn
-                Jahren zurück.
-            </p>
-        </section>
+        Zudem wird bei der Lebendgeburt das Alter der Mutter mitbetrachtet. Während der letzten drei Jahrzehnten
+        nahm die Zahl der jungen Mütter sehr stark ab. Dafür stieg der Anteil der Mütter im Alter von 30-34 Jahren
+        stark an. Durch die Altersverschiebung stieg auch der Anteil an über 35-jährigen Müttern stetig zu. Natürlich
+        ist auch das Alter des Vaters nicht unwichtig für die Statistik. Die meisten Väter von Lebendgeburten haben ein
+        Alter zwischen 30 und 39 Jahren erreicht. Das Alter der Mutter bei der Erstgeburt hat zudem Einfluss auf die
+        Geburtenfolge. Die biologische Geburtenfolge bezieht sich auf die chronische Reihenfolge von
+        Lebendgeburten. Je später die Erstgeburt, desto später folgen die nächsten. Dies wirkt sich stark auf die
+        Geburtenhäufigkeit und den Generationserhalt aus.
+      </p>
+    </section>
+    <br>
+    <section id="geburtenhäufigkeit">
+      <h2>Geburtenhäufigkeit</h2>
+      <p>Die Statistik der Geburtenhäufigkeit zeigt die Anzahl an Lebendgeburten pro Jahr und Kanton. Dabei spielt es
+        keine Rolle wie alt die Mutter oder der Vater des Kindes bei der Geburt waren. Dafür wird zwischen den
+        biologischen Geschlechtern Männlich und Weiblich unterschieden. Diese Unterscheidung wird gemacht, da es für die
+        Fortpflanzung und Menschheitsbestand von hoher Wichtigketi ist, dass die Gescchlechter ausgeglichen sind oder
+        das es mehr Weibliche als Männliche neugeburten gibt. Dies aus dem einfachen Grund, da nur das weibliche
+        Geschlecht ein neues Leben schenken kann und somit für den Fortbestand der Menschheit wichtiger sind.
+      </p>
+    </section>
+    <br>
+    <section id="generationsersatz">
+      <h2>Generationsersatz</h2>
+      <p>Die Statistik zum Generationsersatz zeigt, dass Verhältnis zwischen der Anzahl an Lebendgeburten und der
+        Abzahl der weiblichen Bevölkerung im gebärfähigen Alter. Das gebärfähige Alter entspricht von 15 bis 49 Jahren.
+        Die zusammengefasste Geburtenziffer (ZGZ) entspricht der durchschnittlichen Anzahl Kinder, die eine Frau im
+        Verlauf ihres Lebens zur Welt bringen würde, wenn die altersspezifische Geburtenhäufigkeit eines Kalenderjahres
+        zukünftig konstant bleibt. 1964 war die ZGZ bei 2,7 Kinder pro Frau. Dies bedeutet, dass sie fast doppelt so
+        hoch war als heute. Ab 1964 und somit während der Wirtschaftskriese ging die durchschnittliche Anzahl
+        Kinder je Frau stetig zurück bis sie im Jahr 1978 auf einen Wert von 1,5 stagnierte. Mit leichten Abweichungen
+        von maximal 1,59 bis minimal 1,39 schwankt die Anzahl jedes Jahr und bis heute andauern über die Schwelle von
+        1,5.
+      </p>
+    </section>
+    <br>
+    <section id="simulation">
+      <h2>Simulation</h2>
+      <p>In diesem Abschnitt sind die Statistiken zu den oben beschriebenen Themenbereichen zu finden. Unter jeder
+        Grafik ist beschrieben, was die Grafik anzeigt und wie sie dynamisch veränderbar ist.</p>
+      <br>
+      <h3>Statistik Geburtenhäufigkeit</h3>
+      <div id="container"></div>
+      <br>
+      <div class="middle">
+        <div class="slider-container">
+          <span class="bar"><span class="fill"></span></span>
+          <input id="slider" class="slider" type="range" min="1969" max="2021" value="1969">
+        </div>
+      </div>
+      <p>Die Schweizerkarte zeigt unterschiedlich starke Einfärbungen der einzelnen Kantone. Die Einfärbung ist stärker,
+        wenn die totale Anzahl an Lebendgeburten zunimmt.
         <br>
-        <section id="generationsersatz">
-            <h2>Generationserhalt</h2>
-            <p>Die Statistik der Geburtenhäufigkeit zeigt das Verhältnis zwischen der Zahl der Lebendgeburten und der
-                Zahl der
-                weiblichen Bevölkerung im gebärfähigen Alter. Das gebärfähige Alter entspricht von 15 bis 49 Jahren. Die
-                zusammengefasste Geburtenziffer (ZGZ) entspricht der durchschnittlichen Anzahl Kinder, die eine frau im
-                Verlauf
-                ihrs Lebens zur Welt bringen würde, wenn die altersspezifische Geburtenhäufigkeit eines Kalenderjahres
-                zukünftig
-                konstant bleibt. 1964 war die ZGZ bei 2,7 Kinder pro Frau. Dies bedeutet, dass sie fast doppelt so hoch
-                war als
-                heute. Ab 1970 und somit während der Wirtschaftskriese ging die Geburtenhäufigkeit während zehn Jahren
-                zurück.
-            </p>
-        </section>
         <br>
-        <section id="simulation">
-            <h2>Simulation</h2>
-            <p>In diesem Abschnitt sind die Statistiken zu den oben beschriebenen Themenbereichen zu finden. Unter jeder
-                Grafik ist beschrieben, was die Grafik anzeigt und wie sie dynamisch veränderbar ist.</p>
-            <br>
-            <h3>Statistik Geburtenhäufigkeit</h3>
-            <div id="container"></div>
-            <br>
-            <div class="middle">
-                <div class="slider-container">
-                    <span class="bar"><span class="fill"></span></span>
-                    <input id="slider" class="slider" type="range" min="1969" max="2021" value="1969">
-                </div>
-            </div>
-            <p>Die Schweizerkarte zeigt unterschiedlich starke Einfärbungen der einzelnen Kantone. Die Einfärbung ist
-                stärker,
-                wenn die totale Anzahl an Lebendgeburten zunimmt.
-                <br>
-                <br>
-                Durch das Hovern über die einzelnen Kantone, können die genauen Daten angezeigt werden. Dabei färbt sich
-                der
-                angewählte Kanton für die Standortbestimmung grün ein. Zudem wird in einem Textfenster die totale Anzahl
-                sowie
-                die Anzahl an Mädchen und Knaben angegeben. Durch das Verschieben des Schiebereglers kann das Jahr in
-                der
-                Statistik ausgewählt werden. Das aktuell ausgewählte Jahr, kann in der Überschrift der Statistik
-                entnommen
-                werden.
-            </p>
-            <br>
-            <h3>Statistik Generationsersatz</h3>
-            <figure class="highcharts-figure">
-                <div id="lineContainer"></div>
-                <p class="highcharts-description">
-                    In der Statistik sind zwei Linien abgebildet. Die eine Linie zeigt die durchschnittliche Anzahl
-                    Kinder, die
-                    eine Frau im gebärfähigen Alter hat und die andere Linie zeigt die mindest Anzahl Kinder, die für
-                    den
-                    Elterngenerationsersatz notwendig wäre.
-                    <br>
-                    <br>
-                    Mittels anklicken der Beschriftungen können die einzelnen Kategorien ein und ausgeschaltet werden.
-                </p>
-                <br>
-            </figure>
-            <h3>Statistik Geburtenziffer</h3>
-            <figure class="highcharts-figure">
-                <div id="balkenContainer"></div>
-                <p class="highcharts-description">
-                    Die Statistik zeigt die Anzahl an Lebend- und Totgeburten pro Jahr. Obwohl das Alter der Mutter für
-                    die
-                    Lebend- respektive Totgeburt eines Kindes einen Einfluss hat, werden in dieser Statistik zur
-                    besseren
-                    Lesbarkeit alle Alterskategorien der Mütter zusammen genommen. Dafür wird bei den Lebendgeburten
-                    noch zwischen
-                    Mädchen und Knaben unterschieden. Durch diese Unterscheidung ist es möglich die biologische
-                    Geschlechterverteilung sichtbar zu machen.
-                    <br>
-                    <br>
-                    Mittels anklicken der Beschriftungen können die einzelnen Kategorien ein und ausgeschaltet werden.
-                    Durch das
-                    Hovern über die farbigen Balken in der Statistik, werden die genauen Anzahlen an Mädchen oder Knaben
-                    inklusive das Total der Lebend- oder Totgeburten angezeigt.
-                </p>
-            </figure>
-        </section>
-        <script src="https://code.highcharts.com/maps/highmaps.js"></script>
-        <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
-        <script src="script.js"></script>
-        <script src="https://code.highcharts.com/highcharts.js"></script>
-        <script src="https://code.highcharts.com/modules/exporting.js"></script>
-        <script src="https://code.highcharts.com/modules/export-data.js"></script>
-        <script src="https://code.highcharts.com/modules/accessibility.js"></script>
-    </main>
-    <footer>
-    </footer>
+        Durch das Hovern über die einzelnen Kantone, können die genauen Daten angezeigt werden. Dabei färbt sich der
+        angewählte Kanton für die Standortbestimmung grün ein. Zudem wird in einem Textfenster die totale Anzahl sowie
+        die Anzahl an Mädchen und Knaben angegeben. Durch das Verschieben des Schiebereglers kann das Jahr in der
+        Statistik ausgewählt werden. Das aktuell ausgewählte Jahr, kann in der Überschrift der Statistik entnommen
+        werden.
+      </p>
+      <br>
+      <h3>Statistik Generationsersatz</h3>
+      <figure class="highcharts-figure">
+        <div id="lineContainer"></div>
+        <p class="highcharts-description">
+          In der Statistik sind zwei Linien abgebildet. Die eine Linie zeigt die durchschnittliche Anzahl Kinder, die
+          eine Frau im gebärfähigen Alter hat und die andere Linie zeigt die mindest Anzahl Kinder, die für den
+          Elterngenerationsersatz notwendig wäre.
+          <br>
+          <br>
+          Mittels anklicken der Beschriftungen können die einzelnen Kategorien ein und ausgeblendet werden. Durch das
+          Hovern mit der Maus über die Linien, können die genauen Daten angezeigt werden.
+        </p>
+        <br>
+      </figure>
+      <h3>Statistik Geburtenziffer</h3>
+      <figure class="highcharts-figure">
+        <div id="balkenContainer"></div>
+        <p class="highcharts-description">
+          Die Statistik zeigt die Anzahl an Lebend- und Totgeburten pro Jahr. Obwohl das Alter der Mutter für die
+          Lebend- respektive Totgeburt eines Kindes einen Einfluss hat, werden in dieser Statistik zur besseren
+          Lesbarkeit alle Alterskategorien der Mütter zusammen genommen. Dafür wird bei den Lebendgeburten noch zwischen
+          Mädchen und Knaben unterschieden. Durch diese Unterscheidung ist es möglich die biologische
+          Geschlechterverteilung sichtbar zu machen.
+          <br>
+          <br>
+          Mittels anklicken der Beschriftungen können die einzelnen Kategorien ein und ausgeschaltet werden. Durch das
+          Hovern über die farbigen Balken in der Statistik, werden die genauen Anzahlen an Mädchen oder Knaben inklusive
+          das Total der Lebend- oder Totgeburten angezeigt.
+        </p>
+      </figure>
+    </section>
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script src="script.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+  </main>
+  <footer>
+    <p>Created by Edina, Keshina, Noemi, Sabrina</p>
+  </footer>
 </body>
 
 </html>
