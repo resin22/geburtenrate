@@ -19,6 +19,7 @@
         <li><a href="#geburtenhäufigkeit">Geburtenhäufigkeit</a></li>
         <li><a href="#generationsersatz">Generationsersatz</a></li>
         <li><a href="#simulation">Simulation</a></li>
+        <li><a href="#reflexion">Reflexion</a></li>
       </ul>
     </nav>
   </header>
@@ -29,7 +30,7 @@
       <p>Diese Webseite befasst sich mit den Statistiken zu den Geburten in der Schweiz ab dem Jahr 1969 bis ins Jahr
         2021. Die dazu verwendeten Datensätze wurden vom <a
           href="https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/geburten.html">Bundesamt
-          für Statistik</a> gelihen. Für die abgebildeten Charts wurden drei unterschiedliche Demo-Charts von <a
+          für Statistik</a> geliehen. Für die abgebildeten Charts wurden drei unterschiedliche Demo-Charts von <a
           href="https://www.highcharts.com/demo/column-stacked-and-grouped/brand-light">highcharts.com</a> verwendet.
         Die Texte und Anzeigen wurden mit Hilfe der vorangegangenen Quellen selbstständig durch die Projektgruppe
         erstellt.
@@ -67,8 +68,8 @@
       <p>Die Statistik der Geburtenhäufigkeit zeigt die Anzahl an Lebendgeburten pro Jahr und Kanton. Dabei spielt es
         keine Rolle wie alt die Mutter oder der Vater des Kindes bei der Geburt waren. Dafür wird zwischen den
         biologischen Geschlechtern Männlich und Weiblich unterschieden. Diese Unterscheidung wird gemacht, da es für die
-        Fortpflanzung und Menschheitsbestand von hoher Wichtigketi ist, dass die Gescchlechter ausgeglichen sind oder
-        das es mehr Weibliche als Männliche neugeburten gibt. Dies aus dem einfachen Grund, da nur das weibliche
+        Fortpflanzung und Menschheitsbestand von hoher Wichtigkeit ist, dass die Geschlechter ausgeglichen sind oder
+        das es mehr Weibliche als Männliche Neugeburten gibt. Dies aus dem einfachen Grund, da nur das weibliche
         Geschlecht ein neues Leben schenken kann und somit für den Fortbestand der Menschheit wichtiger sind.
       </p>
     </section>
@@ -80,10 +81,9 @@
         Die zusammengefasste Geburtenziffer (ZGZ) entspricht der durchschnittlichen Anzahl Kinder, die eine Frau im
         Verlauf ihres Lebens zur Welt bringen würde, wenn die altersspezifische Geburtenhäufigkeit eines Kalenderjahres
         zukünftig konstant bleibt. 1964 war die ZGZ bei 2,7 Kinder pro Frau. Dies bedeutet, dass sie fast doppelt so
-        hoch war als heute. Ab 1964 und somit während der Wirtschaftskriese ging die durchschnittliche Anzahl
+        hoch war als heute. Ab 1964 und somit während der Wirtschaftskrise ging die durchschnittliche Anzahl
         Kinder je Frau stetig zurück bis sie im Jahr 1978 auf einen Wert von 1,5 stagnierte. Mit leichten Abweichungen
-        von maximal 1,59 bis minimal 1,39 schwankt die Anzahl jedes Jahr und bis heute andauern über die Schwelle von
-        1,5.
+        schwankt diese Anzahl jedes Jahr über die Schwelle von 1,5 Kindern je Frau.
       </p>
     </section>
     <br>
@@ -142,6 +142,46 @@
           das Total der Lebend- oder Totgeburten angezeigt.
         </p>
       </figure>
+    </section>
+    <section id="reflexion">
+      <h2>Reflexion</h2>
+      <p>Die Projektbearbeitung hat einige Hürden mit sich gebracht. Zum einen war das Datenauslesen aus den
+        json-Dateien und die anschliessende Umwandlung in das richtige Format, für uns zu Beginn unlösbar. Die erste
+        Datenauslesung wurde anschliessend mit Anleitung des Dozenten gemeistert. Doch dies stellte uns vor neuen
+        Problemen, wie zum Beispiel die Daten durch einen separaten Slider in der Grafik verändert werden können. Dem
+        Projketteam war bis zu diesem Zeitpunkt nicht klar, dass die Grafik nur einmal beim Start geladen wird und sich
+        grundsätzlich nicht verändert, es sei denn die Grafik wurde vorab in eine Variable gelegt. Liegt die Grafik in
+        einer Variable ausserhalb des async aufrufes, kann die Grafik mittels geeigneter Funktion auch nach dem ersten
+        Laden verändert werden. Doch als auch diese Hürde gemeistert wurde, war das Projektteam wieder zuversichtlicher
+        die vorgenommenen Ziele bis zum Projektabgabetermin zu meistern.
+        </br>
+        </br>
+        Das einbetten der Highcharts Grafik war erstaunlich einfach, nachdem wir herausgefunden haben, welche Änderungen
+        zwingend vergenommen werden müssen, wenn mehrere Grafiken auf einer Webseite verwendet werden. Da es sich um
+        Demo-Charts handelt, ist jeder Aufbau sowie die Klassenbezeichnung im CSS derselbe. Werden die Charts blindlings
+        ohne Veränderung der Klassenbezeichnung eingefügt, kann die genaue Zuordnung des Designs nicht stattfinden und
+        es wird auf der Webseite nichts angezeigt. Auch das Einlesen der richtigen Daten in die Grafiken hat gut
+        funktioniert. Die meisten Schwierigkeiten hat nicht das Datenlesen sonder, das Bereitstellen der Daten in der
+        richtigen Form umzuformen, bereitet. Dies hat uns auch sehr viel Zeit gekostet. Doch am Ende hat es sich
+        gelohnt.
+        </br>
+        </br>
+        Die Aufbereitung der Daten für die letzte Grafik war die aufwendigste, da die Daten aus zwei unterschiedlichen
+        Datensätzen ausgelesen und zusammengetragen werden mussten. Zuden waren die gewünschten Daten der Lebendgeburten
+        pro Jahr und Geschlecht nicht bereits als Totalanzahl im Datensatz gespeichert. Die Daten waren pro Jahr und
+        Geschlecht zwar kategorisiert, jedoch in 26 einzelne Kantone aufgeteilt. Nachdem wir die richtige Funktion für
+        das extrahieren der Daten herausgefunden haben, mussten wir diese jedoch für jedes Jahr und Geschlecht händisch
+        eingeben, da uns das Knowhow für eine einfachere Lösung schlichtweg fehlte. Trotz des umständlich langen Codes
+        hat es uns das gewünschte Ergebnis geliefert und wir konnten die extrahierten Daten in die Grafik einlesen.
+        </br>
+        </br>
+        Gerade für die Extraktion dieser Daten, hätten wir rückblickend vielleicht mit Hilfe des Dozenten eine nicht so
+        aufwendige Funktion erstellen können, die das gleiche Ergebnis geliefert hätte. Da uns jedoch die Zeit etwas
+        davon rannte, haben wir uns für das eigene Austüfteln entschieden. Schlussendlich haben wir nun mehrere
+        Möglichkeiten aus den Hilfestellungen im Internet ausprobiert und selbst welche kreiert. Somit haben wir einen
+        höheren Lerneffekt für das Verständnis von Javascript generiert. Rückblickend sind wir mehr als nur zufrieden
+        mit dem Endergebnis, auch wenn nicht ganz alle interaktiven Ideen am Ende umgesetzt wurden.
+      </p>
     </section>
     <script src="https://code.highcharts.com/maps/highmaps.js"></script>
     <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
